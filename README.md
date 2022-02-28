@@ -1,8 +1,6 @@
-# Full Stack open CI/CD
+# Full Stack open CI/CD (Part 11)
 
-This repository is used for the CI/CD module of the Full stack open course
-
-Fork the repository to complete course exercises
+This repository is used for the part 11 CI/CD module of the Full stack open course.
 
 ## Commands
 
