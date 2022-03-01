@@ -1,0 +1,3 @@
+[submodule "fullstackopen2021-part11.21"]
+	path = fullstackopen2021-part11.21
+	url = git@github.com:miikanissi/fullstackopen2021-part11.21.git
