@@ -2,6 +2,8 @@
 
 This repository is used for the part 11 CI/CD module of the Full stack open course.
 
+## [Part 11.21 solution repository](./fullstackopen2021-part11.21)
+
 ## Commands
 
 Start by running `npm install` inside the project folder
